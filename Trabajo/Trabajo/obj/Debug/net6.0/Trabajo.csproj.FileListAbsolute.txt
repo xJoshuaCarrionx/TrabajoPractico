@@ -1,0 +1,15 @@
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\bin\Debug\net6.0\Trabajo.exe
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\bin\Debug\net6.0\Trabajo.deps.json
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\bin\Debug\net6.0\Trabajo.runtimeconfig.json
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\bin\Debug\net6.0\Trabajo.dll
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\bin\Debug\net6.0\Trabajo.pdb
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.csproj.AssemblyReference.cache
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.AssemblyInfoInputs.cache
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.AssemblyInfo.cs
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.dll
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\obj\Debug\net6.0\refint\Trabajo.dll
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.pdb
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\obj\Debug\net6.0\Trabajo.genruntimeconfig.cache
+C:\Users\SISTEMAS2-23\Desktop\Tarea Programacion C#\Trabajo\Trabajo\obj\Debug\net6.0\ref\Trabajo.dll
